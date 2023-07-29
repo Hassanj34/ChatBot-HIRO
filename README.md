@@ -4,7 +4,8 @@
 What is a ChatBot? A computer program designed to simulate conversations with human users, over some platform. This project is based on the concept of a basic ChatBot which works for the FAST Admission           FAQ Portal. It helps its users to access all the necessary information regarding the Admission procedures.
 
 # Data structures & Technologies used
-    AVL Trees were used to make ChatBot H I R O work. The project majorly focuses on the concept of Deep Learning. Further technologies used:
+    AVL Trees were used to make ChatBot H I R O work. The project majorly focuses
+    on the concept of Deep Learning. Further technologies used:
         - Language used: C++
         - IDEs used: Visual Studio 2019
         - Speech Development

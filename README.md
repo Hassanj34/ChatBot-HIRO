@@ -23,7 +23,7 @@ As accessing specific information about any Admission related process is difficu
 ![image](https://github.com/Hassanj34/ChatBot-HIRO/assets/96651621/bac09449-4bad-409c-a403-15f7a61d94fc)
 
 # Future Work
-Despite the numerous amounts of code optimization we performed, we could’ve improved the program further in various places. Several other features can be added in the future, for example, making the bot open to queries regarding various categories such as the faculty department, other campus details, services and career opportunities.
+Despite the numerous amounts of code optimization performed, further improvements could be done to the program in various places. Several other features can be added in the future, for example, making the bot open to queries regarding various categories such as the faculty department, other campus details, services and career opportunities.
 
 # Conclusion
 The mentioned project is based on the data structures-AVL Trees. It is capable of handling unknown queries of its users by using the concept of Deep Learning and Filing. The program follows the Object-Oriented approach. The user is welcomed to a user friendly environment which has been designed to help its users completely. 

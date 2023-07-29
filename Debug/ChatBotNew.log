@@ -1,0 +1,15 @@
+﻿  ChatBot.cpp
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(310,48): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(455,27): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(531,35): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(583,31): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(610,23): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(623,23): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(670,31): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(702,35): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(734,39): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(841,35): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(850,35): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(860,35): warning C4018: '<': signed/unsigned mismatch
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\ChatBot.cpp(1016,42): warning C4018: '<': signed/unsigned mismatch
+  ChatBotNew.vcxproj -> G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\Debug\ChatBotNew.exe

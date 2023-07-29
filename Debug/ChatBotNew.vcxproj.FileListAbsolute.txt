@@ -1,0 +1,2 @@
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\Debug\ChatBotNew.exe
+G:\Studies\Semester 3 Fall 2020\Data Structures\Project\ChatBotNew\Debug\ChatBotNew.pdb

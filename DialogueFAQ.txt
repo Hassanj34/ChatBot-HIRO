@@ -1,0 +1,27 @@
+( faculty )The faculty here is very professional and hard working
+( teacher )The teachers here are very professional and hard working
+( transport )The transport facility is available to all students for many different routes accross the city
+( exam )There are total of 3 exams, mid-I, mid-II and finals in each semester
+( conduct )The code of conduct is to be strictly followed
+( campus )The campus tour will be provided on orientation day
+( rules )The rules and guidelines are to be strictly followed
+( fields )There are multiple fields available such as Computer Science, Software Engineering, Business Administration, Artificial Intelligence, Cyber Security, Electrical engineering and Mechanical Engineering
+( pay )Fees payment is done through pay-order
+( location )The location of FAST is St-4, Sector 17-D, Shah Latif Town (on National Highway)
+( located )The main campus of FAST is located on St-4, Sector 17-D, Shah Latif Town (on National Highway)
+( canteen )There is a cafeteria within a separate building, and a 'dhaba' near the CS Building.
+( library )FAST has a well built library for students to study peacefully with access to thousands of books
+( sports )There is a sports room contaning sports equipment for all kinds of indoor and outdoor games
+( labs )The labs in FAST contain all the latest technological equipment which students practice on
+( events )There are multiple events held such as Developer's Day, PROCOM, NU-FEST, AHA competition, Coder's Cup and The Grand Debate
+( environment )The environment in FAST is friendly and the code of conduct is strictly followed
+( administration )The administration of FAST is very strong and well built to follow all required rules
+( standard )The standard of FAST ranks among the top 5 universities of Pakistan
+( facility )There are various facilities available such as sports, library, practice labs, auditoriums and much more
+( website )The FAST university website is  http://nu.edu.pk
+( entry )The NU Test is the entrance exam for admission here in FAST
+( contact )You can contact us through telephone, Tel: 111 128 128 or (021) 410 0541-6, or you can use fax, Fax: (021) 410 0549
+( history )Here is some brief history of FAST : The National University of Computer & Emerging Sciences has the honor of being the first multi-campus private sector university set up under the Federal Charter granted by Ordinance No.XXIII of 2000, dated July 01, 2000. The University started with an impressive advantage in that, thanks to the selfless, ceaseless and imaginative efforts of the Foundation FAST, it inherited four first rate computer science institutes located at Karachi, Lahore, Islamabad and Peshawar, in spacious buildings and prestigious settings. These institutes, individually as well as collectively, have established leadership position due to the splendid vision of an enlightened management and tireless efforts of a highly qualified faculty. Over the years FAST has become the hallmark of excellence in academic arena, domestic market and international community
+( grading )The grading scheme for BBA & BS programs is as follows : [A+ : 4.00], [A : 4.00], [A- : 3.67], [B+ : 3.33], [B : 3.00], [B- : 2.67], [C+ : 2.33], [C : 2.00], [C- : 1.67], [D+ : 1.33], [D : 1.00]
+( grade )The grades for BBA & BS programs is as follows : [A+ : 4.00], [A : 4.00], [A- : 3.67], [B+ : 3.33], [B : 3.00], [B- : 2.67], [C+ : 2.33], [C : 2.00], [C- : 1.67], [D+ : 1.33], [D : 1.00]
+( degree )Holder of 4-year Bachelor degree (BS Computer Science / BBA Business Administration), with minimum of 130 credit hours after intermediate or equivalent qualification is considered eligible to compete for the posts of lecturer or equivalence posts of B-17 by the Higher Education Commission(hec)/Government of Pakistan
